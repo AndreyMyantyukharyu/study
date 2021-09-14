@@ -3,7 +3,6 @@ const numberOfFilms = +prompt('How many movies have you seen?', '');
 const personalMovieDB = {
 
     count: numberOfFilms,
-    
     movies: {},
     actors: {},
     genres: [],
