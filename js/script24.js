@@ -68,7 +68,7 @@ const personalMovieDB = {
 
             
             if (genre === '' || genre === null) {
-                console.log('Incorrect information')
+                console.log('Incorrect information');
                 i--;
             } else {
                 personalMovieDB.genres[i - 1] = genre;
