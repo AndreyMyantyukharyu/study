@@ -12,7 +12,7 @@ console.log(typeof(5 + ''));
 
 const num = 5;
 
-console.log("https://vk.com/catalog" + num);
+// console.log("https://vk.com/catalog" + num);
 
 const fontSize = 26 + 'px';
 
